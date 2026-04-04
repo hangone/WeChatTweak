@@ -728,5 +728,90 @@
         ]
       }
     ]
+  },
+  {
+    "version": "37261",
+    "targets": [
+      {
+        "identifier": "revoke",
+        "entries": [
+          {
+            "arch": "arm64",
+            "addr": "41a85cc",
+            "asm": "00008052C0035FD6"
+          }
+        ]
+      },
+      {
+        "identifier": "startUpdater",
+        "entries": [
+          {
+            "arch": "arm64",
+            "addr": "1c1294",
+            "asm": "00008052C0035FD6"
+          }
+        ]
+      },
+      {
+        "identifier": "startBackgroundUpdatesCheck",
+        "entries": [
+          {
+            "arch": "arm64",
+            "addr": "1c3780",
+            "asm": "00008052C0035FD6"
+          }
+        ]
+      },
+      {
+        "identifier": "checkForUpdates",
+        "entries": [
+          {
+            "arch": "arm64",
+            "addr": "1c34b0",
+            "asm": "00008052C0035FD6"
+          }
+        ]
+      },
+      {
+        "identifier": "enableAutoUpdate",
+        "entries": [
+          {
+            "arch": "arm64",
+            "addr": "1c3ba0",
+            "asm": "00008052C0035FD6"
+          }
+        ]
+      },
+      {
+        "identifier": "automaticallyDownloadsUpdates",
+        "entries": [
+          {
+            "arch": "arm64",
+            "addr": "1ca7bc",
+            "asm": "00008052C0035FD6"
+          }
+        ]
+      },
+      {
+        "identifier": "canCheckForUpdate",
+        "entries": [
+          {
+            "arch": "arm64",
+            "addr": "1ca7cc",
+            "asm": "00008052C0035FD6"
+          }
+        ]
+      },
+      {
+        "identifier": "multiInstance",
+        "entries": [
+          {
+            "arch": "arm64",
+            "addr": "1b95a8",
+            "asm": "20008052C0035FD6"
+          }
+        ]
+      }
+    ]
   }
 ]
